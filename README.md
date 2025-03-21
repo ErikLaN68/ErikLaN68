@@ -1,6 +1,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErikLaN68&show_icons=true&theme=midnight-purple)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikLaN68&theme=midnight-purple&layout=compact&)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <!--
 ## Hi there 👋
 **ErikLaN68/ErikLaN68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
