@@ -2,9 +2,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikLaN68&theme=midnight-purple&layout=compact&)
 
-![snake gif](https://github.com/ErikLaN68/ErikLaN68/blob/output/dist/github-snake.svg)
-
-
 <!--
 ## Hi there 👋
 **ErikLaN68/ErikLaN68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
