@@ -2,6 +2,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikLaN68&theme=midnight-purple&layout=compact&)
 
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ErikLaN68/ErikLaN68/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
 <!--
 ## Hi there 👋
 **ErikLaN68/ErikLaN68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
